@@ -41,10 +41,11 @@
 ### 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <!-- Cards de Estatísticas e Top Linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Vanderson's GitHub stats" height="175" />
+  
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" height="175" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="Top Langs" height="175" />
 </div>
 
 <br/>
