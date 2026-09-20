@@ -38,23 +38,29 @@
 
 ---
 
-### 📊 Estatísticas & Gráficos
+### 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Vanderson's GitHub stats" height="175" />
-  
+  <!-- Cards de Estatísticas e Top Linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" height="175" />
   <br/><br/>
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="Top Langs" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" height="175" />
 </div>
 
 <br/>
 
+<!-- Seu Gráfico de Quadradinhos Verdes do GitHub -->
+<div align="center">
+  <h3>🟩 Gráfico de Contribuições</h3>
+  <img src="https://ghchart.rshah.org/40c463/VandinDev221" alt="Gráfico de Contribuições - Vanderson" width="100%" />
+</div>
+
+<br/>
+
+<!-- Gráfico de Atividade Contínua -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VandinDev221&theme=radical&area=true&hide_border=true&radius=8" width="100%" />
 </div>
----
-
 ### 💼 Experiências em Destaque
 
 - **Operações de Data Center & Análise de Dados** — *PB Promoção de Vendas* (Abr 2024 - Presente)
