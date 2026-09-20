@@ -41,26 +41,18 @@
 ### 📊 Estatísticas & Gráficos
 
 <div align="center">
-  <!-- RETÂNGULO 1: Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Vanderson's GitHub stats" height="175" />
   
   <br/><br/>
   
-  <!-- RETÂNGULO 2: Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="Top Langs" height="175" />
 </div>
 
 <br/>
 
-<!-- OS QUADRADINHOS COM A COBRINHA -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VandinDev221/VandinDev221/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VandinDev221/VandinDev221/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VandinDev221/VandinDev221/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/VandinDev221/VandinDev221/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
-
 ---
 
 ### 💼 Experiências em Destaque
