@@ -3,7 +3,7 @@
   <p><strong>Desenvolvedor Web | Infraestrutura & Data Center | Full Stack</strong></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-andrade-22v/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanderson-andrade)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VandinDev221)
 </div>
 
 <br/>
@@ -38,11 +38,27 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Gráficos
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=6&theme=tokyonight" />
+  <!-- RETÂNGULO 1: Estatísticas Gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" height="175" />
+  
+  <br/><br/>
+  
+  <!-- RETÂNGULO 2: Linguagens Mais Usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" height="175" />
+</div>
+
+<br/>
+
+<!-- OS QUADRADINHOS COM A COBRINHA -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VandinDev221/VandinDev221/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VandinDev221/VandinDev221/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VandinDev221/VandinDev221/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
