@@ -51,7 +51,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VandinDev221/VandinDev221/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VandinDev221&theme=radical&area=true&hide_border=true&radius=8" width="100%" />
 </div>
 ---
 
