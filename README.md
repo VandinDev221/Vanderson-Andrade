@@ -50,7 +50,7 @@
 
 <br/>
 
-<!-- Seu Gráfico de Quadradinhos Verdes do GitHub -->
+<!-- Gráfico de Contribuições (Quadradinhos Verdes) -->
 <div align="center">
   <h3>🟩 Gráfico de Contribuições</h3>
   <img src="https://ghchart.rshah.org/40c463/VandinDev221" alt="Gráfico de Contribuições - Vanderson" width="100%" />
@@ -58,10 +58,8 @@
 
 <br/>
 
-<!-- Gráfico de Atividade Contínua -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VandinDev221&theme=radical&area=true&hide_border=true&radius=8" width="100%" />
-</div>
+---
+
 ### 💼 Experiências em Destaque
 
 - **Operações de Data Center & Análise de Dados** — *PB Promoção de Vendas* (Abr 2024 - Presente)
